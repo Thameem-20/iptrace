@@ -111,4 +111,4 @@ def admin():
     return "<br>".join(formatted_logs)
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5001) 
+    app.run(debug=True, port=5000) 
